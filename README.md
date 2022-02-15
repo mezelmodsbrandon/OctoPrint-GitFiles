@@ -1,4 +1,4 @@
-# OctoPrint-GitFiles
+# OctoPrint-GitFiles - FORKED, TEST FOR Py3.6
 
 With this plugin, you can use a github/gitlab repository for keeping your OctoPrint Files collection up-to-date. Publish your sliced files from a local repository on your workstation, then select to pull the latest from this remote repository.
 
